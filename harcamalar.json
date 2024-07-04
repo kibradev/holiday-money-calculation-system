@@ -1,0 +1,109 @@
+{
+    "harcamalar": [
+        [
+            "Kibra",
+            1920.0,
+            "Alkol Ve Bakkal"
+        ],
+        [
+            "Kibra",
+            200.0,
+            "Taksi \u00dccret"
+        ],
+        [
+            "Kibra",
+            720.0,
+            "K\u00f6fte Ve \u0130\u00e7ecekler"
+        ],
+        [
+            "Kibra",
+            100.0,
+            "Tuz + \u00c7\u00f6p Po\u015feti"
+        ],
+        [
+            "Kibra",
+            350.0,
+            "\u0130\u00e7ecekler"
+        ],
+        [
+            "Kibra",
+            450.0,
+            "Kahvalt\u0131 i\u00e7in Gerekli Malzemeler"
+        ],
+       
+        [
+            "Kibra",
+            350.0,
+            "Kahvalt\u0131 Harcamas\u0131"
+        ],
+        [
+            "Kibra",
+            500.0,
+            "Taksi"
+        ],
+        [
+            "Alperen",
+            770.0,
+            "Yemek"
+        ],
+        [
+            "Alperen",
+            275.0,
+            "Yemek"
+        ],
+        [
+            "Alperen",
+            621.0,
+            "Migros"
+        ],
+        [
+            "Alperen",
+            459.0,
+            "Migros"
+        ],
+        [
+            "Alperen",
+            305.0,
+            "Migros"
+        ],
+        [
+            "Alperen",
+            500.0,
+            "Taksi"
+        ],
+        [
+            "Alperen",
+            250.0,
+            "Yemek"
+        ],
+        [
+            "Alperen",
+            500.0,
+            "Taksi"
+        ],
+        [
+            "Alperen",
+            485.0,
+            "Yemek"
+        ],
+        [
+            "Alperen",
+            363.0,
+            "Yemek"
+        ],
+        [
+            "Alperen",
+            1900.0,
+            "mangal"
+        ],
+        [
+            "Alperen",
+            1420.0,
+            "Genel"
+        ]
+    ],
+    "toplam_borclar": {
+        "Kibra": -4590.0,
+        "Alperen": -7848.0
+    }
+}
